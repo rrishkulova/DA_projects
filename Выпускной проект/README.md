@@ -1,5 +1,6 @@
 **[Анализ поведения игроков](https://github.com/rrishkulova/Data_analyst_projects/blob/main/%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/GP_PlayerAnalysis.ipynb)**   
 Целью исследования является анализ поведения игроков в зависимости от рекламного источника перехода.   
+
 Используемые библиотеки: *pandas, sqlalchemy*.   
 
 **[А/В тестирование](https://github.com/rrishkulova/Data_analyst_projects/blob/main/%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/GP_ABtest.ipynb)**   
@@ -13,4 +14,5 @@
    
 **[SQL](https://github.com/rrishkulova/Data_analyst_projects/blob/main/%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/GP_SQL.ipynb)**   
 В рамках задачи была проанализирована база данных для формирования ценностного предложения для нового продукта.   
+
 Используемые библиотеки: *pandas, matplotlib, seaborn, numpy, math, scipy*.  
